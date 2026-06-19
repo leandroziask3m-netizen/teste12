@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nome": "floresta",
+    "img": "",
+    "lat": -20.40127195972944,
+    "lng": -51.06445312500001,
+    "owner": "leandro"
+  },
+  {
+    "id": 2,
+    "nome": "teste 2",
+    "img": "https://wallpaperaccess.com/full/3352658.jpg",
+    "lat": -18.161510984517324,
+    "lng": -64.24804687500001,
+    "owner": "leandro"
+  },
+  {
+    "id": 3,
+    "nome": "cargil",
+    "img": "https://tse2.mm.bing.net/th/id/OIP.I_Zy2WADBTU0wLVCwxZLNwHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "lat": -18.68417977067376,
+    "lng": -49.59005584519221,
+    "owner": "eduarda"
+  }
+]
